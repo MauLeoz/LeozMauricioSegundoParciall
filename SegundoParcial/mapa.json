@@ -1,0 +1,44 @@
+{
+  "Aislar" : [ {
+    "nombre" : "Melisa",
+    "apellido" : "Maidana",
+    "edad" : 34,
+    "barrio" : "San Carlos",
+    "dni" : "34217441",
+    "ocupacion" : "Contador",
+    "numeroKit" : 2
+  }, {
+    "nombre" : "Mariano",
+    "apellido" : "Torres",
+    "edad" : 18,
+    "barrio" : "Chauvin",
+    "dni" : "45012257",
+    "ocupacion" : "Estudiante",
+    "numeroKit" : 4
+  } ],
+  "Sanos" : [ {
+    "nombre" : "Mauricio",
+    "apellido" : "Leoz",
+    "edad" : 33,
+    "barrio" : "Nueva Pompeya",
+    "dni" : "34740499",
+    "ocupacion" : "Estudiante",
+    "numeroKit" : 1
+  }, {
+    "nombre" : "Andrea",
+    "apellido" : "Alvarez",
+    "edad" : 52,
+    "barrio" : "Puerto",
+    "dni" : "20256887",
+    "ocupacion" : "Empleado",
+    "numeroKit" : 3
+  }, {
+    "nombre" : "Pedro",
+    "apellido" : "Paz",
+    "edad" : 89,
+    "barrio" : "Juramento",
+    "dni" : "1525688",
+    "ocupacion" : "Jubilado",
+    "numeroKit" : 5
+  } ]
+}
